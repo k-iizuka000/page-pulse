@@ -9,6 +9,7 @@ dist/
 
 # Internal docs
 SERVICE_PLAN.md
+TECH_PROFILE.md
 
 # Environment
 .env
