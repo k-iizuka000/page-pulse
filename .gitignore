@@ -1,0 +1,30 @@
+node_modules/
+dist/
+.vite/
+*.local
+
+**/CLAUDE.md
+**/specs/**
+.claude/
+
+# Internal docs
+SERVICE_PLAN.md
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs & Coverage
+*.log
+coverage/
+*.tgz
